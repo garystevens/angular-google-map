@@ -1,0 +1,25 @@
+
+{
+  "name": "angular-google-map",
+  "description": "A angular directive for loading a google map",
+  "version": "0.0.1",
+  "author": "Gary Stevens",
+  "repository": "garystevens/angular-google-map",
+  "license": "MIT",
+  "engines": {
+      "node": ">=2.0"
+  },
+    "devDependencies": {
+        "fs-extra": "^0.24.0",
+        "gulp": "^3.9.0",
+        "gulp-concat": "^2.6.0",
+        "gulp-connect": "^2.2.0",
+        "gulp-jshint": "^1.11.2",
+        "gulp-ng-annotate": "^1.0.0",
+        "gulp-plumber": "^1.0.1",
+        "gulp-rename": "^1.2.2",
+        "gulp-uglify": "^1.2.0",
+        "gulp-util": "^3.0.6",
+        "jshint-stylish": "^2.0.1"
+    }
+}
