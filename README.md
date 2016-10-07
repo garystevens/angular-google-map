@@ -32,6 +32,7 @@ To include the directive, use the following markup:
 <google-maps
     lat="51.507351"
     lng="-0.127758"
+    apikey="YOUR-API-KEY-HERE"
 </google-maps>
 ```
 
