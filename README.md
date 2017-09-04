@@ -29,11 +29,11 @@ The directive is now available to your app and can be used in your HTML.
 ### HTML
 To include the directive, use the following markup:
 ```
-<google-maps
+<google-map
     lat="51.507351"
     lng="-0.127758"
     apikey="YOUR-API-KEY-HERE"
-</google-maps>
+</google-map>
 ```
 
 ### Options
